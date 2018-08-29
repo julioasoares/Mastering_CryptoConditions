@@ -1,0 +1,12 @@
+Capítulo 0 - Noções Básicas do Protocolo Bitcoin
+O protocolo bitcoin possui muitos aspectos dos quais contratos CC dependem e não precisamos entender como. Estes não serão discutidos aqui. O aspecto primário aqui é a utxo, <i>unspent transaction output<i> ou saída não consumida de transação (não gasta). Apenas um nome elegante para txid/vout, de maneira que quando nós 'sendtoaddress' algumas moedas. O protocolo cria a txid e a primeira "saída" é vout.0 combine e então txid/0 é  uma utxo específica. 
+
+Naturalmente para entender até mesmo esse nível de detalhe requer que se entenda o que é uma txid mas existe um plenitude de referências materiais sobre isso. Basicamente é um cadeia de caracteres com comprimento composta por um conjunto de 64 letras e números que você recebe quando envia fundos.
+
+Implicito a uma utxo é que ela previne <i>double spends</i> (duplo gasto). Uma vez que você gastou a utxo você não pode gastá-la novamente. Esta caraterística é muito importante e enquanto leitores avançados vão apontar para o fato de que <i>chain reorgs</i> podem permitir <i>double spend</i> nós não vamos confundir o problema com esses detalhes. A coisa mais importante é que num determinado bockchain, num <i>blockhash</i> específico, você pode determinar se uma txid/vout vois consumida ou não.
+
+Também há transações que estão na memória esperando para serem mineiradas, a <i>mempool</i>. E é possível que aquela utxo seja consumida por um tx na <i>mempool</i>. Entretanto, como ela ainda não foi confirmada, ela ainda é "não consumida" na altura atual ainda que estajamos seguros de que deva ser consumida no próximo bloco.
+
+Um exemplo útil é pensarmos em um fila de pessoas esperando para entrar num evento. Elas precisam tanto ter um ticket válido como também entrar na fila. depois de algum tempo esperando elas tem seu bilhete carimbado e são admitidas no evento.
+
+No caso utxo o bilhete é uma transação de consumo, o evento é um bloco confirmado, e a fila é a <i> mempool</i>.
