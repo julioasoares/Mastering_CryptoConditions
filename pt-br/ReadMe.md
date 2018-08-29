@@ -36,7 +36,7 @@ Uma documentação em progresso disponível para os primeiros contratos CryptoCondi
 
 ### Traduções e Contribuições da Comunidade
 
-Estamos abertos a aceitar alterações a esta documentação com melhorias, atualizações, correções, traduções, examplos de código de CriptoContratos ou outras.
+Estamos abertos a aceitar alterações a esta documentação com melhorias, atualizações, correções, traduções, exemplos de código de CriptoContratos ou outras.
 
 Por favor fique a vontade para submeter um <i>pull request</i> com suas alterações que nossa equipe terá prazer em <i>merge</i> após revisão.
 
