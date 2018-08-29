@@ -1,6 +1,6 @@
 ## Dominando CryptoConditions - Smart Contracts Baseados em UTXO
 
-Este repositório consiste na documentação sobre CryptoConditions Smart Contracts em texto bruto, escrita por jl777 (James Lee) o principal desenvolvedor da Plataforma Komodo. 
+Este repositório consiste na documentação em texto puro sobre CryptoConditions Smart Contracts, escrita por jl777 (James Lee) o principal desenvolvedor da Plataforma Komodo. 
 
 
 ### Documentação em texto bruto
