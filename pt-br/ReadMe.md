@@ -22,29 +22,28 @@ Todos os capítulos são arquivos em texto puro.
 - Capítulo 11 - Example de canais (channels)
 - [Capítulo 12 - Possibilidades ilimitadas](Capítulo%2012%20-%20Possibilidades%20ilimitadas)
 - [Capítulo 13 - Diversas linguagens](Capítulo%2013%20-%20Diversas%20linguagens)
-- [Capítulo 14 - Ligações em tempo de execução](Capítulo%2014%20-%20Ligações em tempo de execução)
+- [Capítulo 14 - Ligações em tempo de execução](Capítulo%2014%20-%20Ligações%20em%20tempo%20de%20execução)
 - [Capítulo 15 - dapps basedas em RPC](Capítulo%2015%20-%20dapps%20basedas%20em%20RPC)
 
 
-### Formated documentation text draft
+### Rascunho de documentação em texto formatado
 
-All chapters are compiled to a nice draft in Markdown format which you can read in [all_chapters.md](all_chapters.md) file.
+Podemos ler todos os capítulos compilados em um arquivo único com uma bela apresentação em formato Markdown [todos_os_capitulos.md](todos_os_capitulos.md).
+
+### Documentação RPC dos Exemplos de Contratos CryptoCondtions 
+
+Uma documentação em progresso disponível para os primeiros contratos CryptoConditions de exemplo/demonstração pode ser vista no [diretório docs](docs/).
+
+### Traduções e Contribuições da Comunidade
+
+Estamos abertos a aceitar alterações a esta documentação com melhorias, atualizações, correções, traduções, examplos de código de CriptoContratos ou outras.
+
+Por favor fique a vontade para submeter um <i>pull request</i> com suas alterações que nossa equipe terá prazer em <i>merge</i> após revisão.
 
 
-### RPC Documentation of Example CryptoCondtions Contracts
-
-There is a work in progress RPC documentation for the first example/demo CryptoConditions smart contracts which you can find in [docs directory](docs/).
-
-
-### Translations and Community Contributions
-
-We are open to accept updates to this documentation with any improvements, updates, corrections, translations, example CryptoContracts code and such.
-
-Please feel free to push a pull request with your changes and our team will be happy to merge the changes after review.
-
-#### Translations
+#### Traduções
 
 - [Russian](RU/)
+- [Brazilian Portuguese](pt-br/)
 
-
-Happy coding smart contracts on Komodo Platform!
+Feliz programação de smart contracts na Plataforma Komodo para você!
