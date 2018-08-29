@@ -15,15 +15,15 @@ Todos os capítulos são arquivos em texto puro.
 - [Capítulo 4 - Extensões RPC CC](Capítulo%2004%20-%20Extensões%20RPC%20CC)
 - [Capítulo 5 - Validação CC](Capítulo%2005%20-%20Validação%20CC)
 - [Capítulo 6 - Exemplo de torneira (faucet)](Capítulo%2006%20-%20Exemplo%20de%20torneira%20\(faucet\))
-- [Capítulo 7 - Exemplo de recompensas (rewards)](Capítulo%2007%20-%20Exemplo de recompensas)
-- [Capítulo 8 - assets example](Capítulo%2008%20-%20assets%20example)
-- [Capítulo 9 - dice example](Capítulo%2009%20-%20dice%20example)
-- Capítulo 10 - lotto example
-- Capítulo 11 - channels example
-- [Capítulo 12 - limitless possibilities](Capítulo%2012%20-%20limitless%20possibilities)
-- [Capítulo 13 - different languages](Capítulo%2013%20-%20different%20languages)
-- [Capítulo 14 - runtime bindings](Capítulo%2014%20-%20runtime%20bindings)
-- [Capítulo 15 - RPC based dapps](Capítulo%2015%20-%20RPC%20based%20dapps)
+- [Capítulo 7 - Exemplo de recompensas (rewards)](Capítulo%2007%20-%20Exemplo%20de%20recompensas%20\(rewards\))
+- [Capítulo 8 - Exemplo de ativos (assets)](Capítulo%2008%20-%20Exemplo%20de%20ativos%20\(assets\))
+- [Capítulo 9 - Exemplo de jogo de dados (dice)](Capítulo%2009%20-%20Exemplo%20de%20jogo%20de%20dados\(dice\))
+- Capítulo 10 - Exemplo de loteria (lotto)
+- Capítulo 11 - Example de canais (channels)
+- [Capítulo 12 - Possibilidades ilimitadas](Capítulo%2012%20-%20Possibilidades%20ilimitadas)
+- [Capítulo 13 - Diversas linguagens](Capítulo%2013%20-%20Diversas%20linguagens)
+- [Capítulo 14 - Ligações em tempo de execução](Capítulo%2014%20-%20Ligações em tempo de execução)
+- [Capítulo 15 - dapps basedas em RPC](Capítulo%2015%20-%20dapps%20basedas%20em%20RPC)
 
 
 ### Formated documentation text draft
