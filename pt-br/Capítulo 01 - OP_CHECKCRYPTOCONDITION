@@ -1,5 +1,5 @@
-CapÌtulo 1 - OP_CHECKCRYPTOCONDITION
-No capÌtulo anterior utxo foi explicada. Entretanto mecanismo especÌfico que È usado para enviar um pagamento n„o foi explicado. Contrariamente ao que a maioria pode pensar, n„o h· no blockchain entradas que dizem "pague valor X para endereÁo". Em vez disso o que exste È um scripto bitcoin que necessita ser satisfeito para que os fundos possam ser consumidos.
+Cap√≠tulo 1 - OP_CHECKCRYPTOCONDITION
+No cap√≠tulo anterior utxo foi explicada. Entretanto mecanismo espec√≠fico que √© usado para enviar um pagamento n√£o foi explicado. Contrariamente ao que a maioria pode pensar, n√£o h√° no blockchain entradas que dizem "pague valor X para endere√ßo". Em vez disso o que exste √© um scripto bitcoin que necessita ser satisfeito para que os fundos possam ser consumidos.
 
 Originalmente havia o script <i>pay to pub</i> 
 <pubkey> <checksig>
