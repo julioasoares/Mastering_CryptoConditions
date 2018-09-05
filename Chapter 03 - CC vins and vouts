@@ -3,8 +3,6 @@ You might want to review the bitcoin basics and other materials to refresh about
 
 vin0 + vin1 + vin2 -> vout0 + vout1
 
-e.g. https://www.blockchain.com/btc/tx/c5034c0c75912ff61a072b582c3decf7e7fe2e7f507d43dc101bb5106489c5fa
-
 That is a 3 input, 2 output transaction. The value from the three inputs are combined and then split into vout0 and vout1, each of the vouts gets a spend script that must be satisfied to be able to be spent. Which means for all three of out vins, all the requirements (as specified in the output that created them) are satisfied.
 
 Yes, I know this is a bit too complicated without a nice chart, so we will hope that a nice chart is added here:
