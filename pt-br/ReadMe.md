@@ -1,49 +1,49 @@
 ## Dominando CryptoConditions - Smart Contracts Baseados em UTXO
 
-Este repositÛrio consiste na documentaÁ„o em texto puro sobre CryptoConditions Smart Contracts, escrita por jl777 (James Lee) o principal desenvolvedor da Plataforma Komodo. 
+Este reposit√≥rio consiste na documenta√ß√£o em texto puro sobre CryptoConditions Smart Contracts, escrita por jl777 (James Lee) o principal desenvolvedor da Plataforma Komodo. 
 
 
-### DocumentaÁ„o em texto bruto
+### Documenta√ß√£o em texto bruto
 
-Todos os capÌtulos s„o arquivos em texto puro.
+Todos os cap√≠tulos s√£o arquivos em texto puro.
 
-- [ÕNDICE](Õndice)
-- [CapÌtulo 0 - NoÁıes B·sicas do Protocolo Bitcoin](CapÌtulo%2000%20-%20NoÁıes%20B·sicas%20do%20Protocolo%20Bitcoin)
-- [CapÌtulo 1 - OP_CHECKCRYPTOCONDITION](CapÌtulo%2001%20-%20OP_CHECKCRYPTOCONDITION)
-- [CapÌtulo 2 - NoÁıes B·sicas de contrato CC](CapÌtulo%2002%20-%20NoÁıes%20B·sicas%20de%20contrato%20CC)
-- [CapÌtulo 3 - CC vins e vouts](CapÌtulo%2003%20-%20CC%20vins%20e%20vouts)
-- [CapÌtulo 4 - Extensıes RPC CC](CapÌtulo%2004%20-%20Extensıes%20RPC%20CC)
-- [CapÌtulo 5 - ValidaÁ„o CC](CapÌtulo%2005%20-%20ValidaÁ„o%20CC)
-- [CapÌtulo 6 - Exemplo de torneira (faucet)](CapÌtulo%2006%20-%20Exemplo%20de%20torneira%20\(faucet\))
-- [CapÌtulo 7 - Exemplo de recompensas (rewards)](CapÌtulo%2007%20-%20Exemplo%20de%20recompensas%20\(rewards\))
-- [CapÌtulo 8 - Exemplo de ativos (assets)](CapÌtulo%2008%20-%20Exemplo%20de%20ativos%20\(assets\))
-- [CapÌtulo 9 - Exemplo de jogo de dados (dice)](CapÌtulo%2009%20-%20Exemplo%20de%20jogo%20de%20dados\(dice\))
-- CapÌtulo 10 - Exemplo de loteria (lotto)
-- CapÌtulo 11 - Example de canais (channels)
-- [CapÌtulo 12 - Possibilidades ilimitadas](CapÌtulo%2012%20-%20Possibilidades%20ilimitadas)
-- [CapÌtulo 13 - Diversas linguagens](CapÌtulo%2013%20-%20Diversas%20linguagens)
-- [CapÌtulo 14 - LigaÁıes em tempo de execuÁ„o](CapÌtulo%2014%20-%20LigaÁıes%20em%20tempo%20de%20execuÁ„o)
-- [CapÌtulo 15 - dapps basedas em RPC](CapÌtulo%2015%20-%20dapps%20basedas%20em%20RPC)
-
-
-### Rascunho de documentaÁ„o em texto formatado
-
-Podemos ler todos os capÌtulos compilados em um arquivo ˙nico com uma bela apresentaÁ„o em formato Markdown [todos_os_capitulos.md](todos_os_capitulos.md).
-
-### DocumentaÁ„o RPC dos Exemplos de Contratos CryptoCondtions 
-
-Uma documentaÁ„o em progresso disponÌvel para os primeiros contratos CryptoConditions de exemplo/demonstraÁ„o pode ser vista no [diretÛrio docs](docs/).
-
-### TraduÁıes e ContribuiÁıes da Comunidade
-
-Estamos abertos a aceitar alteraÁıes a esta documentaÁ„o com melhorias, atualizaÁıes, correÁıes, traduÁıes, exemplos de cÛdigo de CriptoContratos ou outras.
-
-Por favor fique a vontade para submeter um <i>pull request</i> com suas alteraÁıes que nossa equipe ter· prazer em <i>merge</i> apÛs revis„o.
+- [√çNDICE](√çndice)
+- [Cap√≠tulo 00 - No√ß√µes B√°sicas do Protocolo Bitcoin](Cap√≠tulo%2000%20-%20No√ß√µes%20B√°sicas%20do%20Protocolo%20Bitcoin)
+- [Cap√≠tulo 01 - OP_CHECKCRYPTOCONDITION](Cap√≠tulo%2001%20-%20OP_CHECKCRYPTOCONDITION)
+- [Cap√≠tulo 02 - No√ß√µes B√°sicas de contrato CC](Cap√≠tulo%2002%20-%20No√ß√µes%20B√°sicas%20de%20contrato%20CC)
+- [Cap√≠tulo 03 - CC vins e vouts](Cap√≠tulo%2003%20-%20CC%20vins%20e%20vouts)
+- [Cap√≠tulo 04 - Extens√µes RPC CC](Cap√≠tulo%2004%20-%20Extens√µes%20RPC%20CC)
+- [Cap√≠tulo 05 - Valida√ß√£o CC](Cap√≠tulo%2005%20-%20Valida√ß√£o%20CC)
+- [Cap√≠tulo 06 - Exemplo de torneira (faucet)](Cap√≠tulo%2006%20-%20Exemplo%20de%20torneira%20\(faucet\))
+- [Cap√≠tulo 07 - Exemplo de recompensas (rewards)](Cap√≠tulo%2007%20-%20Exemplo%20de%20recompensas%20\(rewards\))
+- [Cap√≠tulo 08 - Exemplo de ativos (assets)](Cap√≠tulo%2008%20-%20Exemplo%20de%20ativos%20\(assets\))
+- [Cap√≠tulo 09 - Exemplo de jogo de dados (dice)](Cap√≠tulo%2009%20-%20Exemplo%20de%20jogo%20de%20dados\(dice\))
+- Cap√≠tulo 10 - Exemplo de loteria (lotto)
+- Cap√≠tulo 11 - Example de canais (channels)
+- [Cap√≠tulo 12 - Possibilidades ilimitadas](Cap√≠tulo%2012%20-%20Possibilidades%20ilimitadas)
+- [Cap√≠tulo 13 - Diversas linguagens](Cap√≠tulo%2013%20-%20Diversas%20linguagens)
+- [Cap√≠tulo 14 - Liga√ß√µes em tempo de execu√ß√£o](Cap√≠tulo%2014%20-%20Liga√ß√µes%20em%20tempo%20de%20execu√ß√£o)
+- [Cap√≠tulo 15 - dapps basedas em RPC](Cap√≠tulo%2015%20-%20dapps%20basedas%20em%20RPC)
 
 
-#### TraduÁıes
+### Rascunho de documenta√ß√£o em texto formatado
+
+Podemos ler todos os cap√≠tulos compilados em um arquivo √∫nico com uma bela apresenta√ß√£o em formato Markdown [todos_os_capitulos.md](todos_os_capitulos.md).
+
+### Documenta√ß√£o RPC dos Exemplos de Contratos CryptoCondtions 
+
+Uma documenta√ß√£o em progresso dispon√≠vel para os primeiros contratos CryptoConditions de exemplo/demonstra√ß√£o pode ser vista no [diret√≥rio docs](docs/).
+
+### Tradu√ß√µes e Contribui√ß√µes da Comunidade
+
+Estamos abertos a aceitar altera√ß√µes a esta documenta√ß√£o com melhorias, atualiza√ß√µes, corre√ß√µes, tradu√ß√µes, exemplos de c√≥digo de CriptoContratos ou outras.
+
+Por favor fique a vontade para submeter um <i>pull request</i> com suas altera√ß√µes que nossa equipe ter√° prazer em <i>merge</i> ap√≥s revis√£o.
+
+
+#### Tradu√ß√µes
 
 - [Russian](RU/)
 - [Brazilian Portuguese](pt-br/)
 
-Feliz programaÁ„o de smart contracts na Plataforma Komodo para vocÍ!
+Feliz programa√ß√£o de smart contracts na Plataforma Komodo para voc√™!
